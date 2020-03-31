@@ -1,0 +1,6 @@
+module Pods_RNStudy {
+  umbrella header "Pods-RNStudy-umbrella.h"
+
+  export *
+  module * { export * }
+}
